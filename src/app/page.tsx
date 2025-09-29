@@ -32,7 +32,7 @@ export default function Home() {
             <div className="space-y-6">
               <div className="space-y-4">
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-slate-900 dark:text-white">
-                  Hi, I'm <span className="text-blue-600 dark:text-blue-400">Yasod Kavindu</span>
+                  Hi, I&apos;m <span className="text-blue-600 dark:text-blue-400">Yasod Kavindu</span>
                 </h1>
                 <h2 className="text-2xl sm:text-3xl text-slate-600 dark:text-slate-300">
                   Software Engineer
@@ -101,7 +101,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 dark:text-white mb-4">About Me</h2>
             <p className="text-lg text-slate-600 dark:text-slate-400 max-w-3xl mx-auto">
-              I'm a final year Software Engineering student at NSBM Green University with a passion for creating innovative solutions.
+              I&apos;m a final year Software Engineering student at NSBM Green University with a passion for creating innovative solutions.
             </p>
           </div>
           
@@ -297,7 +297,7 @@ export default function Home() {
           <div className="text-center mb-12">
             <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 dark:text-white mb-4">Get In Touch</h2>
             <p className="text-lg text-slate-600 dark:text-slate-400 max-w-3xl mx-auto">
-              I'm always interested in new opportunities and collaborations. Let's connect!
+              I&apos;m always interested in new opportunities and collaborations. Let&apos;s connect!
             </p>
           </div>
           
